@@ -1,0 +1,251 @@
+Food Item,Cost/unit ($),Protein (g/unit),Vitamins (units/unit),Carbohydrates (g/unit)
+Chicken Breast (Type 1),4.83,23,16,61
+Brown Rice (Type 2),14.75,46,69,96
+Broccoli (Type 3),3.16,7,34,48
+Banana (Type 4),11.42,30,8,78
+Almonds (Type 5),7.62,21,89,41
+Milk (Type 1),0.98,32,86,67
+Salmon (Type 2),4.48,32,44,98
+Eggs (Type 3),5.56,5,28,68
+Sweet Potato (Type 4),6.28,9,93,55
+Quinoa (Type 5),12.33,48,21,21
+Spinach (Type 1),4.66,30,40,83
+Oats (Type 2),11.15,30,64,91
+Apple (Type 3),10.3,32,30,18
+Beef Steak (Type 4),3.4,27,24,6
+Greek Yogurt (Type 5),12.16,26,27,24
+Carrots (Type 1),8.56,46,96,60
+Avocado (Type 2),8.67,1,49,16
+Peanut Butter (Type 3),4.16,5,2,27
+Lentils (Type 4),11.51,13,30,40
+Cheese (Type 5),4.7,20,5,53
+Tofu (Type 1),11.47,12,14,28
+Shrimp (Type 2),5.52,3,9,35
+Pork Loin (Type 3),2.89,21,63,73
+Oranges (Type 4),8.89,44,32,46
+Cucumber (Type 5),2.87,15,100,64
+Tomatoes (Type 1),1.53,9,66,68
+Kale (Type 2),7.56,42,83,92
+Blueberries (Type 3),13.27,2,72,46
+Potatoes (Type 4),10.31,23,86,6
+Cashews (Type 5),3.83,35,51,97
+Walnuts (Type 1),13.18,31,30,44
+Soy Milk (Type 2),13.71,19,27,31
+Chickpeas (Type 3),1.55,12,59,56
+Honey (Type 4),13.28,18,80,53
+Cabbage (Type 5),14.9,25,56,24
+Zucchini (Type 1),11.56,8,97,33
+Eggplant (Type 2),5.08,23,5,53
+Mushrooms (Type 3),4.42,45,47,46
+Pasta (Type 4),4.13,44,21,65
+Bread (Type 5),14.28,37,36,33
+Turkey Breast (Type 1),1.1,9,66,69
+Raspberries (Type 2),2.48,20,10,38
+Cranberries (Type 3),5.32,45,88,21
+Yogurt (Type 4),13.4,24,99,30
+Peaches (Type 5),13.22,24,17,34
+Plums (Type 1),8.36,16,4,73
+Cherries (Type 2),0.96,19,63,14
+Lobster (Type 3),13.84,25,24,84
+Crab (Type 4),4.67,24,76,60
+Scallops (Type 5),5.51,24,74,31
+Pineapple (Type 1),5.77,48,66,53
+Mango (Type 2),1.87,34,91,51
+Pears (Type 3),9.93,21,92,47
+Apricots (Type 4),6.58,24,44,76
+Grapes (Type 5),4.42,33,80,7
+Beets (Type 1),1.45,14,79,29
+Radish (Type 2),8.79,21,90,34
+Coconut (Type 3),1.73,2,69,64
+Basil (Type 4),11.78,38,76,85
+Mint (Type 5),12.75,21,62,46
+Chicken Breast (Type 1),13.03,3,52,67
+Brown Rice (Type 2),3.91,8,45,93
+Broccoli (Type 3),8.94,4,55,49
+Banana (Type 4),2.75,40,57,40
+Almonds (Type 5),4.97,1,21,12
+Milk (Type 1),5.34,23,9,3
+Salmon (Type 2),7.65,7,84,42
+Eggs (Type 3),7.82,9,16,46
+Sweet Potato (Type 4),14.51,12,44,43
+Quinoa (Type 5),5.24,15,63,8
+Spinach (Type 1),6.82,33,43,59
+Oats (Type 2),14.66,40,96,24
+Apple (Type 3),3.52,9,77,84
+Beef Steak (Type 4),1.22,48,13,67
+Greek Yogurt (Type 5),14.51,23,74,99
+Carrots (Type 1),1.06,45,92,19
+Avocado (Type 2),10.55,40,58,21
+Peanut Butter (Type 3),1.61,16,23,9
+Lentils (Type 4),10.03,37,42,50
+Cheese (Type 5),1.79,13,24,28
+Tofu (Type 1),5.04,3,43,49
+Shrimp (Type 2),6.18,47,52,61
+Pork Loin (Type 3),9.37,6,42,43
+Oranges (Type 4),14.95,27,95,15
+Cucumber (Type 5),13.81,38,85,96
+Tomatoes (Type 1),6.66,34,26,63
+Kale (Type 2),5.78,5,9,47
+Blueberries (Type 3),9.03,41,72,7
+Potatoes (Type 4),0.83,50,79,9
+Cashews (Type 5),12.95,23,55,49
+Walnuts (Type 1),8.93,30,92,12
+Soy Milk (Type 2),7.45,42,51,36
+Chickpeas (Type 3),8.79,6,5,50
+Honey (Type 4),8.28,50,29,4
+Cabbage (Type 5),4.6,23,26,38
+Zucchini (Type 1),5.47,17,97,3
+Eggplant (Type 2),3.9,18,24,92
+Mushrooms (Type 3),2.38,17,15,93
+Pasta (Type 4),4.55,14,4,10
+Bread (Type 5),7.71,17,14,41
+Turkey Breast (Type 1),14.27,12,80,15
+Raspberries (Type 2),7.69,2,71,63
+Cranberries (Type 3),13.99,40,9,96
+Yogurt (Type 4),14.64,5,47,8
+Peaches (Type 5),6.53,23,14,33
+Plums (Type 1),9.84,18,91,36
+Cherries (Type 2),6.79,17,42,9
+Lobster (Type 3),8.63,6,12,100
+Crab (Type 4),9.62,42,32,3
+Scallops (Type 5),1.53,19,10,82
+Pineapple (Type 1),7.53,5,73,62
+Mango (Type 2),11.32,2,92,51
+Pears (Type 3),1.04,12,30,78
+Apricots (Type 4),10.44,42,72,49
+Grapes (Type 5),12.59,30,57,19
+Beets (Type 1),3.65,12,66,49
+Radish (Type 2),9.39,11,4,80
+Coconut (Type 3),11.19,5,47,45
+Basil (Type 4),14.48,37,28,2
+Mint (Type 5),6.66,18,83,73
+Chicken Breast (Type 1),7.93,18,18,17
+Brown Rice (Type 2),2.92,19,55,53
+Broccoli (Type 3),9.84,9,68,65
+Banana (Type 4),4.28,29,57,74
+Almonds (Type 5),9.09,25,53,80
+Milk (Type 1),8.01,18,57,99
+Salmon (Type 2),9.08,34,99,58
+Eggs (Type 3),8.69,30,74,14
+Sweet Potato (Type 4),3.19,25,46,33
+Quinoa (Type 5),2.45,20,1,41
+Spinach (Type 1),12.56,6,66,70
+Oats (Type 2),4.2,1,5,36
+Apple (Type 3),11.69,39,78,32
+Beef Steak (Type 4),4.07,26,16,96
+Greek Yogurt (Type 5),2.93,19,15,56
+Carrots (Type 1),11.68,26,73,59
+Avocado (Type 2),11.56,12,5,54
+Peanut Butter (Type 3),11.66,41,80,45
+Lentils (Type 4),8.25,36,83,58
+Cheese (Type 5),9.52,19,75,68
+Tofu (Type 1),13.06,21,38,68
+Shrimp (Type 2),3.95,37,37,28
+Pork Loin (Type 3),13.9,36,27,89
+Oranges (Type 4),13.02,45,65,66
+Cucumber (Type 5),12.85,49,65,51
+Tomatoes (Type 1),3.94,49,5,40
+Kale (Type 2),6.68,42,33,46
+Blueberries (Type 3),3.93,31,51,2
+Potatoes (Type 4),14.21,27,59,99
+Cashews (Type 5),14.2,9,91,21
+Walnuts (Type 1),8.97,44,97,37
+Soy Milk (Type 2),10.92,4,3,38
+Chickpeas (Type 3),3.86,4,53,82
+Honey (Type 4),11.44,17,53,23
+Cabbage (Type 5),7.06,26,10,43
+Zucchini (Type 1),13.68,32,19,26
+Eggplant (Type 2),2.44,6,76,64
+Mushrooms (Type 3),14.75,27,53,30
+Pasta (Type 4),5.37,28,86,47
+Bread (Type 5),10.52,22,54,15
+Turkey Breast (Type 1),4.44,17,48,83
+Raspberries (Type 2),9.59,50,73,13
+Cranberries (Type 3),1.78,26,80,36
+Yogurt (Type 4),4.28,11,58,27
+Peaches (Type 5),14.21,13,54,87
+Plums (Type 1),5.76,40,55,91
+Cherries (Type 2),3.52,43,15,2
+Lobster (Type 3),10.48,25,31,94
+Crab (Type 4),0.75,17,91,13
+Scallops (Type 5),9.35,1,56,20
+Pineapple (Type 1),7.86,28,19,79
+Mango (Type 2),3.5,42,27,15
+Pears (Type 3),13.65,4,16,94
+Apricots (Type 4),8.73,5,10,73
+Grapes (Type 5),8.41,9,80,10
+Beets (Type 1),10.39,37,89,96
+Radish (Type 2),6.81,19,43,92
+Coconut (Type 3),1.3,23,70,8
+Basil (Type 4),7.91,50,67,12
+Mint (Type 5),3.86,18,40,93
+Chicken Breast (Type 1),5.0,33,77,29
+Brown Rice (Type 2),14.71,21,5,61
+Broccoli (Type 3),8.85,49,21,76
+Banana (Type 4),4.07,13,52,38
+Almonds (Type 5),4.44,39,95,57
+Milk (Type 1),8.86,44,90,57
+Salmon (Type 2),2.79,34,62,100
+Eggs (Type 3),7.99,37,46,4
+Sweet Potato (Type 4),11.51,26,37,57
+Quinoa (Type 5),6.16,25,94,38
+Spinach (Type 1),12.45,4,79,59
+Oats (Type 2),13.67,39,27,64
+Apple (Type 3),14.71,5,56,35
+Beef Steak (Type 4),5.79,1,97,91
+Greek Yogurt (Type 5),8.8,26,13,68
+Carrots (Type 1),10.89,29,66,14
+Avocado (Type 2),11.0,24,54,58
+Peanut Butter (Type 3),3.74,49,4,76
+Lentils (Type 4),9.37,43,9,98
+Cheese (Type 5),10.29,47,98,83
+Tofu (Type 1),7.46,16,4,4
+Shrimp (Type 2),3.99,25,78,17
+Pork Loin (Type 3),9.65,11,45,80
+Oranges (Type 4),2.63,7,19,81
+Cucumber (Type 5),4.67,31,90,8
+Tomatoes (Type 1),5.65,30,30,40
+Kale (Type 2),3.4,1,52,15
+Blueberries (Type 3),5.82,30,41,5
+Potatoes (Type 4),4.91,40,70,67
+Cashews (Type 5),5.17,5,13,51
+Walnuts (Type 1),1.19,5,24,3
+Soy Milk (Type 2),13.02,48,91,58
+Chickpeas (Type 3),11.12,41,62,16
+Honey (Type 4),4.39,3,45,44
+Cabbage (Type 5),13.24,22,100,37
+Zucchini (Type 1),12.93,16,35,36
+Eggplant (Type 2),11.83,8,93,90
+Mushrooms (Type 3),4.81,9,62,26
+Pasta (Type 4),12.61,12,72,92
+Bread (Type 5),5.13,39,45,70
+Turkey Breast (Type 1),11.92,7,88,19
+Raspberries (Type 2),8.55,30,96,63
+Cranberries (Type 3),9.94,27,54,65
+Yogurt (Type 4),13.17,15,47,48
+Peaches (Type 5),7.03,48,43,30
+Plums (Type 1),11.39,47,40,46
+Cherries (Type 2),7.71,5,19,13
+Lobster (Type 3),11.81,7,90,78
+Crab (Type 4),12.7,37,32,6
+Scallops (Type 5),9.54,34,64,16
+Pineapple (Type 1),3.21,7,35,53
+Mango (Type 2),10.63,26,97,71
+Pears (Type 3),3.47,47,37,77
+Apricots (Type 4),10.21,11,66,52
+Grapes (Type 5),11.01,20,28,30
+Beets (Type 1),4.95,19,34,84
+Radish (Type 2),8.06,50,40,74
+Coconut (Type 3),10.85,24,6,66
+Basil (Type 4),7.83,29,39,96
+Mint (Type 5),11.3,20,77,94
+Chicken Breast (Type 1),2.27,22,4,50
+Brown Rice (Type 2),11.23,38,99,22
+Broccoli (Type 3),1.38,43,97,60
+Banana (Type 4),11.61,34,29,80
+Almonds (Type 5),3.85,14,24,8
+Milk (Type 1),8.22,2,96,21
+Salmon (Type 2),7.81,9,29,7
+Eggs (Type 3),6.56,43,41,69
+Sweet Potato (Type 4),0.55,22,61,32
+Quinoa (Type 5),7.7,5,8,45

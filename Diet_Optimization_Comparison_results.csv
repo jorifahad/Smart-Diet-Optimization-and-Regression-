@@ -1,0 +1,7 @@
+Scenario,Exact Cost (PuLP),Approx Cost (Differential Evolution),Exact Execution Time (seconds),Approx Execution Time (seconds),Cost Difference
+Scenario 1,170.3529429,2241.067,0.009290218,784.5394912,2070.714057
+Scenario 2,258.0739238,2352.089837,0.010156155,783.4558415,2094.015913
+Scenario 3,276.6205857,2251.451337,0.009283304,786.6702015,1974.830751
+,,,,,
+,,,,,
+,,,,,
